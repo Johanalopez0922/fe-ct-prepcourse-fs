@@ -12,8 +12,8 @@ test('sumarHastaNConBreak of 15 should return 120', () => {
   expect(sumarHastaNConBreak(15)).toBe(120);
 });
 
-test('sumarHastaNConBreak of 20 should return 120', () => {
-  expect(sumarHastaNConBreak(20)).toBe(120);
+test('sumarHastaNConBreak of 20 should return 210', () => {
+  expect(sumarHastaNConBreak(20)).toBe(210);
 });
 
 test('sumarHastaNConBreak of 50 should return 1275', () => {
